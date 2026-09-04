@@ -5,7 +5,7 @@
 #
 # One-time setup:
 #   1. Put this file at  .github/workflows/github-snake.yml  in the repo named
-#      after your username (maleehanadeemeuroshub-maker/maleehanadeemeuroshub-maker).
+#      after your username (maleeha-nadeem/maleeha-nadeem).
 #   2. Settings -> Actions -> General -> Workflow permissions:
 #      select "Read and write permissions", then Save.
 #   3. Actions tab -> "Generate snake animation" -> Run workflow (to seed the
